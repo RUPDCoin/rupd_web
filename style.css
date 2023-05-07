@@ -128,13 +128,6 @@ textarea {
   border:1px solid;
   box-shadow: 0 0 10px #719ECE;
   
-.social-media {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 20px;
-  height: 128px; /* set the height of the container to match the height of the icons */
-}
 
 .social-media a {
   margin: 0 10px;
@@ -144,12 +137,6 @@ textarea {
   height: 100%; /* add height to the anchor tag to match the height of the container */
 }
 
-.social-media img {
-  display: block;
-  margin: 0 auto; 
-  height: 100%;
-  max-width: 100%;
-}
 
 footer {
   padding: 20px;
