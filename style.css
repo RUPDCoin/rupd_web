@@ -128,7 +128,7 @@ textarea {
   border:1px solid;
   box-shadow: 0 0 10px #719ECE;
   
-social-media {
+.social-media {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -136,7 +136,7 @@ social-media {
   height: 128px; /* set the height of the container to match the height of the icons */
 }
 
-social-media a {
+.social-media a {
   margin: 0 10px;
   display: flex; /* add display flex to the anchor tag */
   justify-content: center; /* horizontally center the icon within the anchor tag */
@@ -144,7 +144,7 @@ social-media a {
   height: 100%; /* add height to the anchor tag to match the height of the container */
 }
 
-social-media img {
+.social-media img {
   display: block;
   margin: 0 auto; 
   height: 100%;
@@ -156,4 +156,5 @@ footer {
   background-color: #1E1E1E;
   color: #fff;
   border-radius: 0 0 20px 20px;
+  height: 128px;
 }
