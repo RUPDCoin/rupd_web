@@ -130,24 +130,21 @@ textarea {
   
 
 footer {
-  padding: 20px;
-  background-color: #1E1E1E;
-  color: #fff;
-  text-align: center;
-  border-radius: 0 0 20px 20px;
+
 }
 
 .social-media {
-  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 140px;
 }
 
 .social-media a {
-  display: flex;
-  justify-content: center;
-  margin: 0 10px;
+  
 }
 
 .social-media img {
-  height: 128px;
+  
 }
 
