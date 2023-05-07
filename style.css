@@ -137,9 +137,7 @@ footer {
 }
 
 .social-media {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+text-align: center;
 }
 
 .social-media a {
@@ -148,8 +146,5 @@ footer {
 
 .social-media img {
   height: 128px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
   
