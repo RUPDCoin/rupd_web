@@ -138,12 +138,12 @@ footer {
 }
 
 .social-media {
-  display: flex;
-  justify-content: center;
   margin-bottom: 20px;
 }
 
 .social-media a {
+  display: flex;
+  justify-content: center;
   margin: 0 10px;
 }
 
