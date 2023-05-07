@@ -129,11 +129,12 @@ textarea {
   box-shadow: 0 0 10px #719ECE;
   
 .social-media {
-  display: inline-flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   margin-bottom: 20px;
   height: 128px; /* set the height of the container to match the height of the icons */
+  width: 640px; /* set a fixed width to fit 5 icons side by side */
 }
 
 .social-media a {
@@ -144,8 +145,6 @@ textarea {
   height: 100%;
   max-width: 100%;
 }
-
-
 footer {
   padding: 20px;
   background-color: #1E1E1E;
