@@ -106,7 +106,12 @@ section ul {
   text-align: left;
   margin-bottom: 40px;
 }
-
+section ul1 {
+  font-size: 24px;
+  list-style: none;
+  text-align: center;
+  margin-bottom: 40px;
+}
 section ul li {
   margin-bottom: 10px;
 }
