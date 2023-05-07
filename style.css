@@ -141,6 +141,7 @@ textarea {
   display: flex; /* add display flex to the anchor tag */
   justify-content: center; /* horizontally center the icon within the anchor tag */
   align-items: center; /* vertically center the icon within the anchor tag */
+  height: 100%; /* add height to the anchor tag to match the height of the container */
 }
 
 .social-media img {
@@ -155,4 +156,3 @@ footer {
   text-align: center;
   border-radius: 0 0 20px 20px;
 }
-  
