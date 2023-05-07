@@ -46,7 +46,7 @@ nav ul li a:hover {
 /* Style the banner section */
 #banner {
   padding: 100px;
-  background-image: url(images/background.jpg);
+  background-image: url('images/background.jpg');
   background-size: cover;
   background-position: center;
   color: #fff;
