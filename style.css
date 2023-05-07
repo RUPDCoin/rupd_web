@@ -137,10 +137,10 @@ footer {
 }
 
 .social-media {
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    column-gap: 10px;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
 }
 
 .social-media a {
