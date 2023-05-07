@@ -125,5 +125,5 @@ textarea {
   padding: 12px;
   font-size: 20px;
   margin-bottom: 20px;
-  border: none;
+  border: solid;
   border-radius: 5px;
