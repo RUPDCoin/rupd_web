@@ -141,8 +141,10 @@ textarea {
 }
 
 .social-media img {
-  height: 50px;
+  height: 100%;
+  max-width: 100%;
 }
+
 
 footer {
   padding: 20px;
