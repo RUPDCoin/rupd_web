@@ -134,17 +134,20 @@ textarea {
   align-items: center;
   margin-bottom: 20px;
   height: 128px; /* set the height of the container to match the height of the icons */
-  width: 640px; /* set a fixed width to fit 5 icons side by side */
 }
 
 .social-media a {
   margin: 0 10px;
+  display: flex; /* add display flex to the anchor tag */
+  justify-content: center; /* horizontally center the icon within the anchor tag */
+  align-items: center; /* vertically center the icon within the anchor tag */
 }
 
 .social-media img {
   height: 100%;
   max-width: 100%;
 }
+
 footer {
   padding: 20px;
   background-color: #1E1E1E;
